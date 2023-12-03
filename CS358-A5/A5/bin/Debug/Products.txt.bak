@@ -1,0 +1,31 @@
+1,Aluminum cans, 铝罐,$0.36
+2,Aluminum cast ,生铝,$0.3
+3,Aluminum sheet,铝片,$0.3
+4,Aluminum siding,铝墙,$0.3
+5,Aluminum Wheels,铝轮,$0.35
+6,Aluminum Dirty,脏铝,$0.1
+7,Copper #1,1号铜,$1.8
+8,Copper#2,2号铜,$1.6
+9,Copper Uncleaned,脏铜,$0.5
+10,Copper Sheet,铜片,$1.4
+11,Brass Yellow,黄铜,$1
+12,Brass Red,红铜,$1.4
+13,Brass Dirty,脏黄铜,$0.3
+14,Radiators,散热片,$0.9
+15,Radiators Dirty,脏散热片,$0.4
+16,AL. Copper Radiator,铜铝散热片,$0.9
+17,Dirty AL. Copper Radiator,脏铜铝散热片,$0.3
+18,Tin Steel,锡铁,$0.05
+19,Heavy Metal,重铁,$0.06
+20,Cast Iron,铸铁,$0.05
+21,Automobile Complete,整车,$0.05
+22,Soft Lead,软铅,$0.1
+23,Stainless Steel,不锈钢,$0.2
+24,Aluminum Wire Dirty,脏铝线,$0.08
+25,# 1 Copper wire,1号铜线,$0.65
+26,#2 Copper Wire,2号铜线,$0.5
+27,Copper Wire Dirty,脏铜线,$0.25
+28,Batteries,电池,$0.2
+29,AC compressor,空调压缩机,$0.08
+30,Others,其他1,$0.02
+31,Others,其他2,$0.02

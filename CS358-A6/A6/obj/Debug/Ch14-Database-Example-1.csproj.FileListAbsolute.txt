@@ -1,0 +1,14 @@
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.exe.config
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.exe
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.pdb
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.csproj.AssemblyReference.cache
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.Form1.resources
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.Properties.Resources.resources
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.csproj.GenerateResource.cache
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.csproj.CoreCompileInputs.cache
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.exe
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.pdb
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.ChangePrice.resources
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.MetalRecycle.resources
+C:\Users\USI\source\repos\Ch14-Database-Example-1\Ch14-Database-Example-1\bin\Debug\MetalRecyle_log.ldf

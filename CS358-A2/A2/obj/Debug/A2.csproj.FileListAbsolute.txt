@@ -1,0 +1,10 @@
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\bin\Debug\A2SaladOrderingF23.exe.config
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\bin\Debug\A2SaladOrderingF23.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\bin\Debug\A2SaladOrderingF23.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2.csproj.AssemblyReference.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2SaladOrderingF23.Form1.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2SaladOrderingF23.Properties.Resources.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2.csproj.GenerateResource.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2.csproj.CoreCompileInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2SaladOrderingF23.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A2\A2SaladOrderingF23\obj\Debug\A2SaladOrderingF23.pdb

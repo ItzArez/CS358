@@ -1,0 +1,10 @@
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\bin\Debug\A1-BFP-Calculator.exe.config
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\bin\Debug\A1-BFP-Calculator.exe
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\bin\Debug\A1-BFP-Calculator.pdb
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1-BFP-Calculator.csproj.AssemblyReference.cache
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1_BFP_Calculator.Form1.resources
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1_BFP_Calculator.Properties.Resources.resources
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1-BFP-Calculator.csproj.GenerateResource.cache
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1-BFP-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1-BFP-Calculator.exe
+C:\Users\Yousif\Documents\Projects\A1-BFP-Calculator\A1-BFP-Calculator\obj\Debug\A1-BFP-Calculator.pdb

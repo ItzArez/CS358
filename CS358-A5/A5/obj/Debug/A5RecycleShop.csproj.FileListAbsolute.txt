@@ -1,0 +1,31 @@
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe.config
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.pdb
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.AssemblyReference.cache
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Form1.resources
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Properties.Resources.resources
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.GenerateResource.cache
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.CoreCompileInputs.cache
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.exe
+C:\Users\gyan\source\repos\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.pdb
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe.config
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.pdb
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Form1.resources
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Properties.Resources.resources
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.GenerateResource.cache
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.CoreCompileInputs.cache
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.exe
+C:\Users\gyan\Downloads\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.pdb
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe.config
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.exe
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\bin\Debug\A5RecycleShop.pdb
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.AssemblyReference.cache
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Form1.resources
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.Properties.Resources.resources
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.GenerateResource.cache
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.csproj.CoreCompileInputs.cache
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.exe
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.pdb
+C:\Users\USI\Downloads\A5RecycleShop (2)\A5RecycleShop\A5RecycleShop\A5RecycleShop\obj\Debug\A5RecycleShop.ChangePrice.resources

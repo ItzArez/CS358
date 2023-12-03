@@ -1,0 +1,14 @@
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\bin\Debug\net6.0\A3-2.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\bin\Debug\net6.0\A3-2.deps.json
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\bin\Debug\net6.0\A3-2.runtimeconfig.json
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\bin\Debug\net6.0\A3-2.dll
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\bin\Debug\net6.0\A3-2.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.AssemblyInfoInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.AssemblyInfo.cs
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.csproj.CoreCompileInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.dll
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\refint\A3-2.dll
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\A3-2.genruntimeconfig.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A3\A3-2\Ch11AbstractInterfaceExample\obj\Debug\net6.0\ref\A3-2.dll

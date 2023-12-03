@@ -1,0 +1,13 @@
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\bin\Debug\MetalRecyle_log.ldf
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.exe.config
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\bin\Debug\Ch14-Database-Example-1.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\A6.csproj.AssemblyReference.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.Form1.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.ChangePrice.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.MetalRecycle.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14_Database_Example_1.Properties.Resources.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\A6.csproj.GenerateResource.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\A6.csproj.CoreCompileInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A6\Ch14-Database-Example-1\obj\Debug\Ch14-Database-Example-1.pdb

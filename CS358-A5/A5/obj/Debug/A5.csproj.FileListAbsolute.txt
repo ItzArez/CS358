@@ -1,0 +1,11 @@
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\bin\Debug\A5RecycleShop.exe.config
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\bin\Debug\A5RecycleShop.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\bin\Debug\A5RecycleShop.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5.csproj.AssemblyReference.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5RecycleShop.ChangePrice.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5RecycleShop.Form1.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5RecycleShop.Properties.Resources.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5.csproj.GenerateResource.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5.csproj.CoreCompileInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5RecycleShop.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A5\A5\obj\Debug\A5RecycleShop.pdb

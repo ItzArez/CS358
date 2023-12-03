@@ -1,0 +1,10 @@
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\bin\Debug\A4BankExceptionGUI.exe.config
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\bin\Debug\A4BankExceptionGUI.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\bin\Debug\A4BankExceptionGUI.pdb
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4.csproj.AssemblyReference.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4BankExceptionGUI.Form1.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4BankExceptionGUI.Properties.Resources.resources
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4.csproj.GenerateResource.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4.csproj.CoreCompileInputs.cache
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4BankExceptionGUI.exe
+C:\Users\yousif\Documents\vs_projects\CS358\CS358-A4\A4\obj\Debug\A4BankExceptionGUI.pdb
